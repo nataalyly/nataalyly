@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello there 👋, I'm Natnat
 
-<!--
-**nataalyly/nataalyly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎮 Game Developer | Unity | C#
 
-Here are some ideas to get you started:
+I'm a Computer Science student who enjoys creating
+games and interactive experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Featured Projects
+
+| The Coulus | Lompat Anjay |
+| --- | --- |
+<!-- | <img src="./assets/coulus.gif"> | <img src="./assets/lompat.gif"> | -->
+| 2D pixel endless shooter developed using Unity and C#. | 2D platformer inspired by Doodle Jump. |
+| [GitHub](https://github.com/nataalyly/The-Coulus) • [Play](https://nataalyly.itch.io/the-coulus) | [GitHub](https://github.com/nataalyly/Lompat-Anjay) • [Play](https://nataalyly.itch.io/lompat-anjay) |
+
+## 🎮 Game Projects
+
+| Project | Description |
+| --- | --- |
+| Soon | Description |
+| Soon | Description |
+
+## 📂 Other Projects
+
+| Project | Tools / Language | Description |
+| --- | --- | --- |
+| The Coulus | Unity, C# | 2D Endless Shooter |
+| Lompat Anjay | Unity, C# | 2D Platformer |
+
+## 👩🏻‍💻 About Me
+
+- 🎮 I'm interested in game development
+- 💻 Currently learning Unity, Godot, and Blender
+- 🎨 I also enjoy UI/UX and design
+- 📚 Computer Science student
