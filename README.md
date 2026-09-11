@@ -1,9 +1,13 @@
 # Hello there 👋, I'm Natnat
+Game Developer | Programmer | Game Designer
 
-🎮 Game Developer | Unity | C#
+## 👩🏻‍💻 About Me
 
-I'm a Computer Science student who enjoys creating
-games and interactive experiences.
+- 🎮 I'm interested in game development
+- 💻 Currently learning Unity, Godot, and Blender
+- 🎨 I also enjoy UI/UX and design
+- 📚 Computer Science student
+- 🎓 BINUS University
 
 ## 🎮 Unity Projects
 
@@ -52,11 +56,4 @@ games and interactive experiences.
 
 ## 🛠️ Skills
 
-Unity • C# • Godot • Blender • Figma • Git
-
-## 👩🏻‍💻 About Me
-
-- 🎮 I'm interested in game development
-- 💻 Currently learning Unity, Godot, and Blender
-- 🎨 I also enjoy UI/UX and design
-- 📚 Computer Science student
+Unity • Godot • Blender • Figma
