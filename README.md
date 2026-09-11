@@ -1,5 +1,5 @@
 # Hello there 👋, I'm Natnat
-Game Developer | Programmer | Game Designer
+### Game Developer | Programmer | Game Designer
 
 ## 👩🏻‍💻 About Me
 
@@ -56,4 +56,7 @@ Game Developer | Programmer | Game Designer
 
 ## 🛠️ Skills
 
-Unity • Godot • Blender • Figma
+- Unity
+- Godot
+- Blender
+- Figma
