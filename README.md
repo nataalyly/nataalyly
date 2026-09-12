@@ -9,6 +9,10 @@
 - 📚 Computer Science student
 - 🎓 BINUS University
 
+<!-- <a href="https://nataalyly.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🔗_PORTFOLIO-6C63FF?style=for-the-badge&logoColor=white" alt="Portfolio">
+</a> -->
+
 ## 🎮 Unity Projects
 
 <table>
