@@ -37,7 +37,7 @@
 
   <tr>
     <td align="center">
-      <a href="https://github.com/nataalyly/The-Coulus">GitHub</a> •
+      <a href="https://github.com/nataalyly/The-Coulus">[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]</a> •
       <a href="https://nataalyly.itch.io/the-coulus">Play</a>
     </td>
     <td align="center">
