@@ -40,7 +40,6 @@
       <a href="https://github.com/nataalyly/The-Coulus">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
-      •
       <a href="https://nataalyly.itch.io/the-coulus">
         <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
       </a>
@@ -49,7 +48,6 @@
       <a href="https://github.com/nataalyly/Lompat-Anjay">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
-      •
       <a href="https://nataalyly.itch.io/lompat-anjay">
         <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
       </a>
