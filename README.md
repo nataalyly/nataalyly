@@ -21,14 +21,14 @@
     <th>Lompat Anjay</th>
   </tr>
 
-<!--  <tr>
+  <tr>
     <td align="center">
-      <img src="./assets/coulus.gif" width="100%">
+      <img src="./Assets/TheCoulus.gif" width="100%">
     </td>
     <td align="center">
-      <img src="./assets/lompat-anjay.gif" width="100%">
+      <img src="./Assets/LompatAnjay.gif" width="100%">
     </td>
-  </tr> -->
+  </tr>
 
   <tr>
     <td align="center">
