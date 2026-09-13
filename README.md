@@ -32,10 +32,10 @@
 
   <tr>
     <td align="center">
-      2D pixel endless shooter developed using Unity and C#
+      A 2D pixel-art endless shooter built with Unity and C#, featuring wave-based combat, resource management, and challenging boss encounters.
     </td>
     <td align="center">
-      2D platformer inspired by Doodle Jump
+      A 2D vertical platformer inspired by classic endless-jumping games, featuring character selection and progressively challenging platform navigation.
     </td>
   </tr>
 
