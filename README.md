@@ -59,12 +59,26 @@
   </tr>
 </table>
 
-## 🎮 Godot Projects
+<h2>🎮 Godot Projects</h2>
 
-| Project | Description |
-| --- | --- |
-| Soon | Description |
-| Soon | Description |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Crappybara</td>
+      <td>A 2D virtual pet and idle collector game built in Godot, starring a capybara you can grow, battle with, and dress up. Features a gacha skin system with rarity tiers and a battle mode for grinding gold and XP.</td>
+    </tr>
+    <tr>
+      <td>Soon</td>
+      <td>Description</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🛠️ Skills
 
