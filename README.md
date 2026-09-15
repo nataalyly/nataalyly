@@ -59,25 +59,52 @@
   </tr>
 </table>
 
-<h2>🎮 Godot Projects</h2>
+## 🎮 Godot Projects
 
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Crappybara</td>
-      <td>A 2D virtual pet and idle collector game built in Godot, starring a capybara you can grow, battle with, and dress up. Features a gacha skin system with rarity tiers and a battle mode for grinding gold and XP.</td>
-    </tr>
-    <tr>
-      <td>Soon</td>
-      <td>Description</td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>Crappybara</th>
+    <th>Soon</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="#" width="100%">
+    </td>
+    <td align="center">
+      <img src="#" width="100%">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      A 2D virtual pet and idle collector game built in Godot, starring a capybara you can grow,
+      battle with, and dress up. Features a gacha skin system with rarity tiers and a battle mode
+      for grinding gold and XP.
+    </td>
+    <td align="center">
+      Description
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nataalyly/crappybara">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## 🛠️ Skills
