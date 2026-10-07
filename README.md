@@ -69,7 +69,7 @@
 
   <tr>
     <td align="center">
-      <img src="#" width="100%">
+      <img src="./Assets/Crappybara.gif" width="100%">
     </td>
     <td align="center">
       <img src="#" width="100%">
@@ -79,7 +79,7 @@
   <tr>
     <td align="center">
       A 2D virtual pet and idle collector game built in Godot, starring a capybara you can grow,
-      battle with, and dress up. Features a gacha skin system with rarity tiers and a battle mode
+      battle with, and soon we will add dress up mode. Features a gacha skin system with rarity tiers and a battle mode
       for grinding gold and XP.
     </td>
     <td align="center">
