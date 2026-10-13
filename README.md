@@ -12,10 +12,10 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
     <th>Lompat Anjay</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="Assets/TheCoulus.gif" width="100%">
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="Assets/LompatAnjay.gif" width="100%">
     </td>
   </tr>
