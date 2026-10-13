@@ -13,10 +13,10 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
   </tr>
   <tr>
     <td align="center">
-      <img src="./Assets/TheCoulus.gif" width="100%">
+      <img src="Assets/TheCoulus.gif" width="100%">
     </td>
     <td align="center">
-      <img src="./Assets/LompatAnjay.gif" width="100%">
+      <img src="Assets/LompatAnjay.gif" width="100%">
     </td>
   </tr>
   <tr>
@@ -53,11 +53,11 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
     <th>Gecko Of All Time</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="./Assets/Crappybara.gif" width="100%">
+    <td align="center" width="50%">
+      <img src="Assets/Crappybara.gif" width="100%">
     </td>
-    <td align="center">
-      <img src="./Assets/GeckoOfAllTime.gif" width="100%">
+    <td align="center" width="50%">
+      <img src="Assets/GeckoOfAllTime.gif" width="100%">
     </td>
   </tr>
   <tr>
