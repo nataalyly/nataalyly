@@ -10,10 +10,7 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
   <tr>
     <th>The Coulus</th>
     <th>Lompat Anjay</th>
-    <th>Crappybara</th>
-    <th>Gecko Of All Time</th>
   </tr>
-
   <tr>
     <td align="center">
       <img src="./Assets/TheCoulus.gif" width="100%">
@@ -21,14 +18,7 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
     <td align="center">
       <img src="./Assets/LompatAnjay.gif" width="100%">
     </td>
-    <td align="center">
-      <img src="./Assets/Crappybara.gif" width="100%">
-    </td>
-    <td align="center">
-      <img src="./Assets/GeckoOfAllTime.gif" width="100%">
-    </td>
   </tr>
-
   <tr>
     <td align="center">
       A 2D endless shooter built with Unity. Survive waves of enemies, manage your resources, and take down bosses.
@@ -36,14 +26,7 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
     <td align="center">
       A Doodle Jump-style platformer built with Unity. Pick your character and jump as high as you can before the platforms run out.
     </td>
-    <td align="center">
-      A 2D virtual pet and idle collector built in Godot. Raise a capybara, grind battles for gold and XP, and unlock rare skins through a gacha system.
-    </td>
-    <td align="center">
-      A 2D pixel-art auto-battler dungeon crawler built in Unity, where you clear procedurally regenerated floors and gamble for card packs to build a team of butterflies with synergistic abilities. Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.
-    </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="https://github.com/nataalyly/The-Coulus">
@@ -61,6 +44,31 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
         <img src="https://img.shields.io/badge/▶_Play_Game-FF6B35?style=for-the-badge&logoColor=white" alt="Play Game">
       </a>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Crappybara</th>
+    <th>Gecko Of All Time</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./Assets/Crappybara.gif" width="100%">
+    </td>
+    <td align="center">
+      <img src="#" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      A 2D virtual pet and idle collector built in Godot. Raise a capybara, grind battles for gold and XP, and unlock rare skins through a gacha system.
+    </td>
+    <td align="center">
+      A 2D pixel-art auto-battler dungeon crawler built in Unity, where you clear procedurally regenerated floors and gamble for card packs to build a team of butterflies with synergistic abilities. Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/nataalyly/crappybara">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -79,6 +87,9 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
     </td>
   </tr>
 </table>
+
+## 📁 Other Projects
+soon
 
 ## 🛠️ Tools & Skills
 
