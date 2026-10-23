@@ -21,10 +21,10 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
   </tr>
   <tr>
     <td align="center">
-      A 2D endless shooter built with Unity. Survive waves of enemies, manage your resources, and take down bosses.
+      A 2D pixel-art arcade shooter built with Unity. Blast through waves of enemies, collect hearts to survive, and take down a laser-firing boss.
     </td>
     <td align="center">
-      A 2D pixel-art auto-battler dungeon crawler built in Unity, where you clear procedurally regenerated floors and gamble for card packs to build a team of butterflies with synergistic abilities. Gecko Of All Time is a roguelike shoot ‘em up video game. Player controls a geck while battling continuous waves of monsters, aiming to survive the battle for as long as possible.
+      A 2D survivor-style shooter built with Unity. Control a gecko with a mouse-aimed turret, survive endless monster waves, and level up with upgrades.
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
 <table>
   <tr>
     <th>Crappybara</th>
-    <th>Lompat Kuy</th>
+    <th>Lompat Anjay</th>
   </tr>
   <tr>
     <td align="center" width="50%">
@@ -62,10 +62,10 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
   </tr>
   <tr>
     <td align="center">
-      A 2D virtual pet and idle collector built in Godot. Raise a capybara, grind battles for gold and XP, and unlock rare skins through a gacha system.
+      A 2D virtual pet and idle collector built with Godot. Raise a capybara, battle for gold and XP, and unlock rare skins through a gacha system.
     </td>
     <td align="center">
-      A Doodle Jump-style platformer built with Unity. Pick your character and jump as high as you can before the platforms run out.
+      A 2D arcade platformer built with Unity, inspired by Pou. Pick your character and jump as high as you can before the platforms run out.
     </td>
   </tr>
   <tr>
@@ -89,7 +89,8 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
 </table>
 
 ## 📁 Other Projects
-soon
+- Catch The Phish (in progress)
+- Mukbang Mania (in progress)
 
 ## 🛠️ Tools & Skills
 
