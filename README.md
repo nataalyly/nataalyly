@@ -13,7 +13,7 @@ Outside of coding, I'm into UI/UX and occasionally do some design work.
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="Assets/TheCoulus.gif" width="100%">
+      <img src="Assets/TheCoulus_Polished.gif" width="100%">
     </td>
     <td align="center" width="50%">
       <img src="Assets/GeckoOfAllTime_Polished.gif" width="100%">
